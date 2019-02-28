@@ -1,0 +1,9 @@
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Lib\bin\Debug\Accounting.Computer.Lib.dll
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Lib\bin\Debug\Accounting.Computer.Lib.pdb
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Lib\bin\Debug\LiteDB.dll
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Lib\bin\Debug\LiteDB.xml
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Lib\obj\Debug\Accounting.Computer.Lib.csprojAssemblyReference.cache
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Lib\obj\Debug\Accounting.Computer.Lib.csproj.CoreCompileInputs.cache
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Lib\obj\Debug\Accounting.Computer.Lib.csproj.CopyComplete
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Lib\obj\Debug\Accounting.Computer.Lib.dll
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Lib\obj\Debug\Accounting.Computer.Lib.pdb

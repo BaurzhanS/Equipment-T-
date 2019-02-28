@@ -1,0 +1,12 @@
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Console\bin\Debug\Accounting.Computer.Console.exe.config
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Console\bin\Debug\Accounting.Computer.Console.exe
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Console\bin\Debug\Accounting.Computer.Console.pdb
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Console\bin\Debug\Accounting.Computer.Lib.dll
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Console\bin\Debug\LiteDB.dll
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Console\bin\Debug\Accounting.Computer.Lib.pdb
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Console\bin\Debug\LiteDB.xml
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Console\obj\Debug\Accounting.Computer.Console.csprojAssemblyReference.cache
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Console\obj\Debug\Accounting.Computer.Console.csproj.CoreCompileInputs.cache
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Console\obj\Debug\Accounting.Computer.Console.csproj.CopyComplete
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Console\obj\Debug\Accounting.Computer.Console.exe
+C:\Users\ГерценЕ.LOCAL\source\repos\Accounting.Computer.Lib\Accounting.Computer.Console\obj\Debug\Accounting.Computer.Console.pdb
